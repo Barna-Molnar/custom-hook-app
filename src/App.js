@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Random from './components/Random_V1.jsx';
-import Tag from './components/Tag_V1.jsx';
+import Random from './components/Random_V2.jsx';
+import Tag from './components/Tag_V2.jsx';
 
 const App = () => (
   <div>
