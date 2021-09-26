@@ -1,0 +1,7 @@
+{
+  "auto-rename-tag.activationOnLanguage": ["*"],
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
